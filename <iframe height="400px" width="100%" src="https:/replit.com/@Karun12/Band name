@@ -1,0 +1,11 @@
+#1. Create a greeting for your program.
+print('Hello My Dear Users!')
+
+#2. Ask the user for the city that they grew up in.
+city = input('Wich city did you grow up in? ')
+
+#3. Ask the user for the name of a pet.
+animal = input('Tell the name of your favourite animal? ')
+
+#4. Combine the name of their city and pet and show them their band name.
+band_name = print(city+' '+animal+'s')
